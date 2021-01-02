@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHR Chat-app consultation using Flutter
-- 🌱 I’m currently learning Provider & BLoC for state management in flutter and HTML CSS in freecodecamp
+- 🌱 I’m currently learning React with tailwind css
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with NodeJS 
 - 💬 Ask me about Flutter
