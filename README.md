@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on E-Wallet app
-- 🌱 I’m currently learning Domain Driven Design pattern with Flutter
+- 🔭 I’m currently working on Altea Web
+- 🌱 I’m currently learning Test Driven Design pattern + clean architecture with Flutter
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about Flutter
 - 📫 How to reach me: [My Twitter](https://twitter.com/raymonddenny14)
