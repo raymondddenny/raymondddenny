@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, welcome to my GitHub pages 👋<br>Here are some ideas to get you started:<br><br>🔭 I’m currently working on Leading Comeby Projects [Click Here!](https://www.comeby.io/)<br>🌱 I’m currently learning native mobile development using kotlin and jetpack composer<br>👯 I’m looking to collaborate on Flutter and Native<br>💬 Ask me about Flutter<br>📫 How to reach me: [My Twitter](https://twitter.com/raymonddenny14)<br>⚡ Fun fact: I like to learn a new thing and master it as much as I can
+Hi there, welcome to my GitHub pages 👋<br>Here are some ideas to get you started:<br><br>🔭 I’m currently working on Leading Comeby Projects [Click Here!](https://www.comeby.io/)<br>🌱 I’m currently learning native mobile development using kotlin and jetpack compose<br>👯 I’m looking to collaborate on Flutter and Native<br>💬 Ask me about Flutter<br>📫 How to reach me: [My Twitter](https://twitter.com/raymonddenny14)<br>⚡ Fun fact: I like to learn a new thing and master it as much as I can
 
 ###
 
