@@ -57,7 +57,7 @@ Hi there, welcome to my GitHub pages 👋<br>Here are some ideas to get you star
 </div>
 
 ###
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raymondddenny/raymondddenny/blob/master/devcard.svg" width="400" alt="Denny Raymond's Dev Card"/></a>
+<a href="https://app.daily.dev/dennyraymond"><img src="https://github.com/raymondddenny/raymondddenny/blob/master/devcard.svg" width="400" alt="Denny Raymond's Dev Card"/></a></a>
 
 
 ###
