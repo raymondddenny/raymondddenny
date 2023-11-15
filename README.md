@@ -57,6 +57,10 @@ Hi there, welcome to my GitHub pages 👋<br>Here are some ideas to get you star
 </div>
 
 ###
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/raymondddenny/raymondddenny/blob/master/devcard.svg" width="400" alt="Denny Raymond's Dev Card"/></a>
+
+
+###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22iy4cudjunyycbkfcr667h5q)
 
